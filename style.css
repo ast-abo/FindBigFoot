@@ -1,0 +1,9 @@
+body {
+    background-image: url(forest.jpg);
+    background-size: 200%;
+}
+
+img {
+    height: 40px
+    width: 40p
+}
